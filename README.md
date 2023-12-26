@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krasners1 - I am a Water Resources Engineer at CDM Smith
+- 👋 Hi, I’m @krasners1 - I am a Water Resources Engineer at CDM Smith who works within R and RStudio.
 - 👀 I’m interested in data management, database structures, and data workflow efficiencies related to water quality and hydrologic/hydraulic modeling.
 - 📫 Reach me at krasners@cdmsmith.org or by Teams!
 
